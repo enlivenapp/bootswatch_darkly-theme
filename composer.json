@@ -1,0 +1,46 @@
+{
+    "name": "enlivenapp/bootswatch_dark-theme",
+    "type": "streams-addon",
+    "description": "The Bootswatch Darkly theme for PyroCMS v3.",
+    "keywords": [
+        "theme",
+        "streams",
+        "bootstrap",
+        "bootswatch",
+        "darkly",
+        "laravel",
+        "pyrocms"
+    ],
+    "homepage": "http://enlivenapp.com/",
+    "version": "1.0.0-dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AnomalyLabs, Inc.",
+            "email": "hello@anomaly.is",
+            "homepage": "http://anomaly.is/",
+            "role": "Owner"
+        },
+        {
+            "name": "Enliven Applications",
+            "email": "mw@enlivenapp.com",
+            "homepage": "http://enlivenapp.com",
+            "role": "Owner"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Enlivenapp\\BootswatchDarklyTheme\\": "src/"
+        }
+    },
+    "support": {
+        "email": "mw@enlivenapp.com",
+        "issues": "https://github.com/enlivenapp/bootswatch_darkly-theme/issues"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "stable"
+}
