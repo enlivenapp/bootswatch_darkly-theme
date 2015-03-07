@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'name'        => 'BootswatchDarklyTheme',
-    'description' => 'A Bootswatch Darkly theme for PyroCMS v3.'
+    'name'        => 'Bootswatch Darkly',
+    'description' => 'A (Bootstrap) Bootswatch Darkly theme for PyroCMS v3.'
 ];
